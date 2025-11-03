@@ -70,16 +70,17 @@ wilddocs-landing-page/
 
 ```bash
 git clone https://github.com/NiloCodes/animalCarousel.git
+```
 
 Or simply download the ZIP and extract it.
 
-2. Open the Project
+### 2. Open the Project
 
 Navigate to the folder.
 
 Open index.html in your browser.
 
-3. Explore
+### 3. Explore
 
 Use the arrow buttons to navigate between featured animals.
 
@@ -105,4 +106,7 @@ JavaScript (Vanilla) — for carousel logic and interactivity
 
 This project is open-source and available for personal or educational use.
 © 2025 WildDocs. All rights reserved.
+
+```
+
 ```
