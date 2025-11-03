@@ -106,7 +106,3 @@ JavaScript (Vanilla) — for carousel logic and interactivity
 
 This project is open-source and available for personal or educational use.
 © 2025 WildDocs. All rights reserved.
-
-```
-
-```
