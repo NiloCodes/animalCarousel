@@ -2,14 +2,15 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing:border-box;
     color: white;
+    
 }
 
 /* Body styling */
 body {
     font-family: 'Segoe UI', sans-serif;
-    background: linear-gradient(100deg, #1f4356,#18374F); /* Background gradient */
+    background: linear-gradient(#1f4356,#18374F); /* Background gradient */
 }
 
 section{
